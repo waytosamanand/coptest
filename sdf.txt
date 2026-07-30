@@ -1,0 +1,3 @@
+This file was created in response to issue #6 (sdf/sfd).
+
+This is a test issue in the coptest repository.
